@@ -8,6 +8,7 @@ const Intro = () => {
   return (
     <section id="intro">
      <div className="introcontent">
+      
         <span className="hellow">Helllow, </span>
         <span className="introtext">I'am <span className="introname">Subhi</span><br/>
         React Developer</span>
